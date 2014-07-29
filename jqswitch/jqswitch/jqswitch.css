@@ -1,0 +1,2 @@
+.jqswitch{ position:relative; width:188px; height:54px; cursor:pointer; overflow:hidden; border-radius:8px;}
+.jqswitch-slider{ position:absolute; left:0; top:0; width:294px; height:54px; background: url(ui_switch.png) no-repeat;}
